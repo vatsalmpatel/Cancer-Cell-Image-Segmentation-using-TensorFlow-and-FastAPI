@@ -1,5 +1,4 @@
 tensorflow
-opencv-python
 fastapi
 uvicorn
 gunicorn
